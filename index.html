@@ -44,13 +44,25 @@
   <img class="up-Arrow" src="images/web-swipe-tip.png">
 </div>
 </body>
+<script type="text/javascript" src="js/index.js"></script>
 <script type="text/javascript" src="js/jquery-3.2.1.min.js"></script>
 <script type="text/javascript" src="js/swiper-3.4.2.jquery.min.js"></script>
 <script type="text/javascript" src="js/swiper.animate1.0.2.min.js"></script>
 <script>
+
+    var resize=document.querySelectorAll('.resize');
+    scaleW=window.innerWidth/320;
+    scaleH=window.innerHeight/480;
+    for(var i=0;i<resize.length;i++){
+//       var a= getComputedStyle(resize[i])['width'];
+//       console.log(a);
+        resize[i].style.width=parseInt(getComputedStyle(resize[i])['width'])*scaleW+'px';
+        resize[i].style.height=parseInt(getComputedStyle(resize[i])['height'])*scaleH+'px';
+        resize[i].style.left=parseInt(getComputedStyle(resize[i])['left'])*scaleW+'px';
+        resize[i].style.top=parseInt(getComputedStyle(resize[i])['top'])*scaleH+'px';
+    }
   var mySwiper = new Swiper('.swiper-container', {
     direction: 'vertical',
-
     // 如果需要分页器
     pagination: '.swiper-pagination',
 

@@ -6,22 +6,21 @@ html,body{
   width: 100%;
   height: 100%;
 }
-
 .swiper-container{
   height: 100%;
 }
-
+img{
+  display: block;
+}
 .swiper-slide-bg{
   background: url("../images/bg.jpg");
   background-size: cover;
 }
-
 .swiper-pagination-bullet, .swiper-pagination-bullet-active{
   width: 0.5rem;
   height: 0.5rem;
   background:rgba(255,255,255,.8);
 }
-
 .up-Arrow{
   position: fixed;
   width: 2rem;
@@ -31,7 +30,6 @@ html,body{
   z-index: 10;
   animation: breath 2.5s ease 0s infinite alternate forwards;
 }
-
 @keyframes breath {
   0% {
     opacity: 1;
@@ -49,8 +47,8 @@ html,body{
   position:absolute;
 }
 .s1-t2{
-  width:100px;
-  height:110px;
+  width:104px;
+  height:117px;
   left:70px;
   top:180px;
   z-index:3;
@@ -71,14 +69,14 @@ html,body{
 }
 .s1{
   width:320px;
-  height:200px;
+  height:233px;
   left:0;
   top:140px;
   z-index:1;
 }
 .s2-i5,.s3-i5{
   width:263px;
-  height:177px;
+  height:187px;
   left:31px;
   top:262px;
   z-index:5;
