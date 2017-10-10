@@ -129,5 +129,34 @@ img{
   z-index:1;
 }
 
+.poem-title{
+  width:60px;
+  height:110px;
+  left:260px;
+  top:205px;
+  z-index:3;
+  color:#b60927;
+  font-size:160%;
+}
+.poem-con{
+  width:120px;
+  height:110px;
+  left:110px;
+  top:205px;
+  z-index:3;
+}
+.poem-con > .txt > p{
+  width:15px;
+  color:#b60927;
+  display:inline-block;
+  font-size:90%;
+  line-height:1;
+  margin-right:10px;
+}
+.poem-title > .txt > i{
+  display: block;
+  margin: 0.8rem 0;
+  font-weight:bold;
+}
 
 
