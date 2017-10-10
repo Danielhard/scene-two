@@ -1,0 +1,50 @@
+html{
+  font-size: 12px;
+  font-family: "微软雅黑 Light";
+}
+html,body{
+  width: 100%;
+  height: 100%;
+}
+
+.swiper-container{
+  height: 100%;
+}
+
+.swiper-slide-bg{
+  background: url("../images/bg.jpg");
+  background-size: cover;
+}
+
+.swiper-pagination-bullet, .swiper-pagination-bullet-active{
+  width: 0.5rem;
+  height: 0.5rem;
+  background:rgba(255,255,255,.8);
+}
+
+.up-Arrow{
+  position: fixed;
+  width: 2rem;
+  bottom: 1.5rem;
+  left: 50%;
+  transform: translateX(-50%);
+  z-index: 10;
+  animation: breath 2.5s ease 0s infinite alternate forwards;
+}
+
+@keyframes breath {
+  0% {
+    opacity: 1;
+  }
+
+  50% {
+    opacity: 0;
+  }
+
+  100% {
+    opacity: 1;
+  }
+}
+
+
+
