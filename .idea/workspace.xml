@@ -34,6 +34,7 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="51">
               <caret line="9" column="46" lean-forward="true" selection-start-line="9" selection-start-column="46" selection-end-line="9" selection-end-column="46" />
               <folding>
@@ -42,6 +43,16 @@
                 <element signature="n#div#4;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#div#1;n#div#4;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
               </folding>
+=======
+<<<<<<< HEAD
+            <state relative-caret-position="115">
+              <caret line="62" column="0" lean-forward="false" selection-start-line="62" selection-start-column="0" selection-end-line="62" selection-end-column="0" />
+=======
+            <state relative-caret-position="64">
+              <caret line="120" column="17" lean-forward="true" selection-start-line="120" selection-start-column="17" selection-end-line="120" selection-end-column="17" />
+>>>>>>> f0ed20509e4cbaffb0084e5ec4dc8cef2811891f
+              <folding />
+>>>>>>> 8c4120862c8e99aa9026dd217024cc83b117b990
             </state>
           </provider>
         </entry>
@@ -49,11 +60,27 @@
       <file leaf-file-name="index.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/index.css">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="166">
               <caret line="171" column="4" lean-forward="true" selection-start-line="171" selection-start-column="4" selection-end-line="171" selection-end-column="4" />
               <folding>
                 <element signature="e#566#673#0" expanded="false" />
               </folding>
+=======
+<<<<<<< HEAD
+            <state relative-caret-position="51">
+              <caret line="37" column="41" lean-forward="false" selection-start-line="37" selection-start-column="41" selection-end-line="37" selection-end-column="41" />
+              <folding>
+                <element signature="n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#2;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+              </folding>
+=======
+            <state relative-caret-position="286">
+              <caret line="108" column="22" lean-forward="false" selection-start-line="108" selection-start-column="22" selection-end-line="108" selection-end-column="22" />
+              <folding />
+>>>>>>> f0ed20509e4cbaffb0084e5ec4dc8cef2811891f
+>>>>>>> 8c4120862c8e99aa9026dd217024cc83b117b990
             </state>
           </provider>
         </entry>
@@ -85,9 +112,19 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
+<<<<<<< HEAD
   <component name="ProjectFrameBounds" extendedState="7">
+=======
+<<<<<<< HEAD
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="70" />
+    <option name="y" value="138" />
+=======
+  <component name="ProjectFrameBounds" extendedState="6">
+>>>>>>> 8c4120862c8e99aa9026dd217024cc83b117b990
     <option name="x" value="490" />
     <option name="y" value="69" />
+>>>>>>> f0ed20509e4cbaffb0084e5ec4dc8cef2811891f
     <option name="width" value="783" />
     <option name="height" value="633" />
   </component>
@@ -113,6 +150,27 @@
               <item name="scene-two" type="b2602c69:ProjectViewProjectNode" />
               <item name="scene-two" type="462c0819:PsiDirectoryNode" />
             </path>
+<<<<<<< HEAD
+=======
+            <path>
+              <item name="scene-two" type="b2602c69:ProjectViewProjectNode" />
+              <item name="scene-two" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="scene-two" type="b2602c69:ProjectViewProjectNode" />
+              <item name="scene-two" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+<<<<<<< HEAD
+            </path>
+            <path>
+              <item name="scene-two" type="b2602c69:ProjectViewProjectNode" />
+              <item name="scene-two" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+=======
+>>>>>>> f0ed20509e4cbaffb0084e5ec4dc8cef2811891f
+            </path>
+>>>>>>> 8c4120862c8e99aa9026dd217024cc83b117b990
           </expand>
           <select />
         </subPane>
@@ -148,15 +206,27 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1507603342033</updated>
-      <workItem from="1507603349331" duration="3115000" />
+      <workItem from="1507603349331" duration="7601000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="15757000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+=======
+<<<<<<< HEAD
+    <option name="totallyTimeSpent" value="7601000" />
+=======
+    <option name="totallyTimeSpent" value="8304000" />
+>>>>>>> f0ed20509e4cbaffb0084e5ec4dc8cef2811891f
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <editor active="true" />
+>>>>>>> 8c4120862c8e99aa9026dd217024cc83b117b990
     <layout>
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25818452" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -262,6 +332,9 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
+    <entry file="file://$PROJECT_DIR$/images/musical22.png">
+=======
     <entry file="file://$PROJECT_DIR$/images/s1-t2.png">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -298,6 +371,7 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/images/s1.png">
+>>>>>>> f0ed20509e4cbaffb0084e5ec4dc8cef2811891f
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
@@ -309,6 +383,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="51">
           <caret line="9" column="46" lean-forward="true" selection-start-line="9" selection-start-column="46" selection-end-line="9" selection-end-column="46" />
           <folding>
@@ -317,16 +392,42 @@
             <element signature="n#div#4;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#1;n#div#4;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
+=======
+<<<<<<< HEAD
+        <state relative-caret-position="115">
+          <caret line="62" column="0" lean-forward="false" selection-start-line="62" selection-start-column="0" selection-end-line="62" selection-end-column="0" />
+=======
+        <state relative-caret-position="64">
+          <caret line="120" column="17" lean-forward="true" selection-start-line="120" selection-start-column="17" selection-end-line="120" selection-end-column="17" />
+>>>>>>> f0ed20509e4cbaffb0084e5ec4dc8cef2811891f
+          <folding />
+>>>>>>> 8c4120862c8e99aa9026dd217024cc83b117b990
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/index.css">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="166">
           <caret line="171" column="4" lean-forward="true" selection-start-line="171" selection-start-column="4" selection-end-line="171" selection-end-column="4" />
           <folding>
             <element signature="e#566#673#0" expanded="false" />
           </folding>
+=======
+<<<<<<< HEAD
+        <state relative-caret-position="51">
+          <caret line="37" column="41" lean-forward="false" selection-start-line="37" selection-start-column="41" selection-end-line="37" selection-end-column="41" />
+          <folding>
+            <element signature="n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#2;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+=======
+        <state relative-caret-position="286">
+          <caret line="108" column="22" lean-forward="false" selection-start-line="108" selection-start-column="22" selection-end-line="108" selection-end-column="22" />
+          <folding />
+>>>>>>> f0ed20509e4cbaffb0084e5ec4dc8cef2811891f
+>>>>>>> 8c4120862c8e99aa9026dd217024cc83b117b990
         </state>
       </provider>
     </entry>
