@@ -43,6 +43,24 @@ img{
     opacity: 1;
   }
 }
+@-webkit-keyframes circle{
+  from{
+    transform: rotate(0deg);
+  }
+  to{
+    transform:rotate(360deg);
+  }
+}
+.bg-music{
+  width:5rem;
+  height:5rem;
+  position:fixed;
+  top:0;
+  right:0;
+  z-index:10;
+  transform:rotate(360deg);
+  animation: circle 3s linear 0s infinite   forwards;
+}
 .ani{
   position:absolute;
 }
@@ -110,5 +128,6 @@ img{
   top:27px;
   z-index:1;
 }
+
 
 
