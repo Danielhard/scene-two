@@ -43,8 +43,41 @@ img{
     opacity: 1;
   }
 }
+@-webkit-keyframes circle{
+  from{
+    transform: rotate(0deg);
+  }
+  to{
+    transform:rotate(360deg);
+  }
+}
+.bg-music:hover{
+  cursor: pointer;
+}
+.bg-music{
+  width:5rem;
+  height:5rem;
+  position:fixed;
+  top:0;
+  right:0;
+  z-index:10;
+  transform:rotate(360deg);
+  animation: circle 3s linear 0s infinite   forwards;
+  -webkit-animation-play-state:running;
+}
 .ani{
   position:absolute;
+}
+.snow{
+  width:320px;
+  height:480px;
+  z-index:1;
+}
+.reborder{
+  width:315px;
+  height:475px;
+  background-size: cover;
+  z-index:0;
 }
 .s1-t2{
   width:104px;
